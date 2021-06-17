@@ -1,0 +1,58 @@
+Body {
+    font-family: Arial;    
+    background-image: './img/PROJ_LOGO.svg';
+}
+p {
+    font-style: italic;
+    color: darkslategray;
+}
+
+H1 {
+    color:dodgerblue
+}
+
+Header{
+
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.icone {
+    width: 50px;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.linha-grande {
+    line-height: 60px;
+}
+
+
+.peso-thin {
+    font-weight: 100;
+}
+
+.peso-light {
+    font-weight: 300;
+}
+
+.peso-regular {
+    font-weight: 400;
+}
+
+.peso-medio {
+    font-weight:500;
+}
+
+.peso-bold {
+    font-weight: 700;
+}
+
+.peso-black {
+    font-weight: 900;
+}
+
